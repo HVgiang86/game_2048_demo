@@ -110,7 +110,7 @@ Tất nhiên phải kiểm tra vị trí ngẫu nhiên mình sinh ra đã có gi
 	- Thiết kế màn hình đồ hoạ với thư viện <winbgim.h> hoặc <graphics.h> tuỳ các bạn:
 	
 	Cách cài đặt thư viện xem tại đây: https://anotepad.com/notes/xqmsmekg
-##**Khái quát lại chương trình**
+##**VI. Khái quát lại chương trình**
 - Chương trình sẽ sử dụng các biến cục bộ:
 **int arr[4][4];**			Mảng lưu các ô
 
@@ -153,4 +153,5 @@ void updateUndo();
 void undo();
 
 void checkGame();**
-
+## **VII. Demo**
+https://ideone.com/0KZswH
