@@ -117,18 +117,32 @@ Tất nhiên phải kiểm tra vị trí ngẫu nhiên mình sinh ra đã có gi
 **bool gameStatus = true;**			Trạng thái của game (kết thúc hay chưa)
 #### Các hàm trong chương trình:
 **void updateGrid();
+
 void turnLeftMatrix(int arr[][4],int soLan);
+
 void turnRightMatrix(int arr[][4],int soLan);
+
 void doUp();
+
 void doDown();
+
 void doLeft();
+
 void doRight();
+
 void loop();
+
 void drawGame();
+
 bool isEmpty(int i,int j);
+
 void spawnNumber();
+
 void initGame();
+
 void updateUndo();
+
 void undo();
+
 void checkGame();**
 
